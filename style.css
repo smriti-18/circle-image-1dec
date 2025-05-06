@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+width: 100%;
+}
+
+img{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    border: 8px solid #92a260;
+    margin: 100px auto;
+    display: block;
+}
